@@ -1,0 +1,8 @@
+
+FUGA - Firmware for iOS, so to say jailbreak
+
+Conect your iPhone to your computer via USB and run file fuga.exe
+
+password: Fuga
+
+safer.exe is safe u system
