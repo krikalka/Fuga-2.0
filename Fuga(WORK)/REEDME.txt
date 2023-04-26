@@ -1,7 +1,7 @@
 
 FUGA - Firmware for iOS, so to say jailbreak
 
-Conect your iPhone to your computer via USB and run file fuga.exe
+Conect your iPhone to your computer via USB and run file fugaa.exe
 
 password: Fuga
 
